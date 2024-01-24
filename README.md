@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Subodh Narayan Sah]
+# Hi there! 👋 I'm Subodh Narayan Sah
 
 ## 🎓 Computer Science Student
 
