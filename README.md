@@ -103,9 +103,9 @@ Published in IEEE ICCCNT 2024
 Focus: AES & Chaotic Map encryption
 
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="170"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=subodhnarayan&show_icons=true&theme=radical" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="170"/> </p>
 📊 Most Used Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subodhnarayan&layout=compact&theme=radical"/> </p>
 🏆 Achievements
 
 🥇 4th Place — Amrita Hackathon
@@ -123,7 +123,7 @@ Focus: AES & Chaotic Map encryption
 🤖 AI + NLP Systems
 
 🤝 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"> </a> <a href="mailto:youremail@gmail.com"> <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/subodh-narayan-sah/"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"> </a> <a href="mailto:subodhnarayansah@gmail.com"> <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"> </a> </p>
 ⚡ Fun Fact
 
 I love building systems that detect → decide → act automatically 🚀
