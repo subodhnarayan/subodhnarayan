@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subodh Narayan Sah</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FF1493&center=true&vCenter=true&width=600&lines=Software+Engineer+@+Trellix;Building+AI+%2B+Security+Systems;Cloud+%7C+DevOps+%7C+Backend;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FF1493&center=true&vCenter=true&width=600&lines=Software+Engineer+@+Trellix;Building+AI+%2B+Security+Systems;Software Development+%7C+Cloud+%7C+DevOps;Always+Learning+🚀" />
 </p>
 
 <p align="center">
