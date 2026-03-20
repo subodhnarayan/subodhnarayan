@@ -1,38 +1,131 @@
-# Hi there! 👋 I'm Subodh Narayan Sah
+👋 Hi, I'm Subodh Narayan Sah
+<p align="center"> 🚀 Software Engineer Apprentice @ Trellix | 🔐 Security + AI Systems | ☁️ Cloud Enthusiast </p> <p align="center"> <a href="https://github.com/subodhnarayan"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" /> </a> </p>
+💼 About Me
 
-## 🎓 Computer Science Student
+💻 Working on Trellix Insights (Security Analytics & Monitoring)
 
-- Currently pursuing a degree in Computer Science 📚
-- Enthusiastic about software development, algorithms, and data structures 💻
-- Passionate learner always seeking to expand my knowledge 🚀
+🎓 B.Tech CSE Graduate from Amrita Vishwa Vidyapeetham
 
-## 💻 Tech Stack
+🔐 Passionate about Cybersecurity, Backend Systems & AI-driven Automation
 
-- **Languages:** C, C++, Python
-- **Web Development:** JavaScript, React.js, React Native
-- **Full Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
+🧠 Strong in DSA, System Design & Real-world Problem Solving
 
-## 🚀 Projects
+🚀 Current Focus
 
-- Developed 'Accident alert System for hilly region' using Lora(Long Range) Technology for communcation.
-- Created Suitable Crop Prediction with a focus on growing of more crops
-- Check out my [GitHub Repositories](https://github.com/your-username) for more projects!
+🤖 Building Defensive Bot (Automated security detection & response)
 
-## 📊 Data Science
+🧠 Developing AI-Orchestrated Remediation System
 
-- Explored the fascinating world of data science 📈
-- Implemented algorithms and models for Suitable Crop Prediction
-- Proficient in tools like NumPy, Pandas, and Matplotlib
+☁️ Exploring AWS, CI/CD, Monitoring & DevOps
 
-## 📫 Let's Connect!
+📱 Improving React Native applications
 
-- LinkedIn: https://www.linkedin.com/in/subodh-narayan-sah/
-- Twitter: https://twitter.com/SubodhNarayan18
-- Portfolio: https://twitter.com/SubodhNarayan18
+🛠️ Tech Stack
+💻 Languages
 
-## 🌱 Always Learning
 
-- Currently exploring React Native for Mobile App Development
-- Open to collaboration on exciting projects and opportunities 🤝
 
-Thanks for stopping by! Let's code something incredible together. 🚀
+
+
+
+
+
+🌐 Web & Mobile
+
+
+
+
+
+
+
+
+
+
+☁️ Cloud & Tools
+
+
+
+
+
+
+
+
+📊 Data Science
+
+
+
+
+
+
+🧠 Featured Projects
+🛒 Meta Shopping App
+
+📱 React Native Mobile App
+
+🔍 Compares prices across Amazon, Flipkart, Croma, Reliance
+
+🤖 AI-based product comparison
+
+⚡ AWS Lambda for web scraping
+
+🔐 Firebase Authentication
+
+🛒 Cart & user features
+
+🤖 Defensive Bot (Ongoing)
+
+Automated security detection & response system
+
+Handles anomalies & triggers defensive workflows
+
+Built for real-time scalable backend systems
+
+🧠 AI-Orchestrated Remediation System
+
+AI-driven automated incident resolution
+
+Integrates alerts → analysis → action pipeline
+
+Inspired by AIOps & self-healing systems
+
+📊 Suitable Crop Prediction
+
+ML-based agricultural recommendation system
+
+Used preprocessing, normalization & ensemble models
+
+🔐 Research Paper
+
+📄 Securing Images: Cryptographic Approach in Big Data Scenario
+
+Published in IEEE ICCCNT 2024
+
+Focus: AES & Chaotic Map encryption
+
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="170"/> </p>
+📊 Most Used Languages
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical"/> </p>
+🏆 Achievements
+
+🥇 4th Place — Amrita Hackathon
+
+📄 Published Research in IEEE
+
+💼 Working at Trellix (Cybersecurity Domain)
+
+🌱 Currently Learning
+
+☁️ Advanced AWS & DevOps
+
+⚙️ CI/CD Pipelines & Monitoring
+
+🤖 AI + NLP Systems
+
+🤝 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"> </a> <a href="mailto:youremail@gmail.com"> <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"> </a> </p>
+⚡ Fun Fact
+
+I love building systems that detect → decide → act automatically 🚀
+
+⭐ "Code. Learn. Build. Repeat."
