@@ -1,5 +1,5 @@
 👋 Hi, I'm Subodh Narayan Sah
-<p align="center"> 🚀 Software Engineer Apprentice @ Trellix | 🔐 Security + AI Systems | ☁️ Cloud Enthusiast </p> <p align="center"> <a href="https://github.com/subodhnarayan"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" /> </a> </p>
+<p align="center"> 🚀 Software Engineer Apprentice @ Trellix | 🔐 Security + AI Systems | ☁️ Cloud Enthusiast </p> <p align="center"> <a href="https://github.com/subodhnarayan"> <img src="https://komarev.com/ghpvc/?username=subodhnarayan&label=Profile%20views&color=0e75b6&style=flat" /> </a> </p>
 💼 About Me
 
 💻 Working on Trellix Insights (Security Analytics & Monitoring)
