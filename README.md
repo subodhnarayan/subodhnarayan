@@ -112,7 +112,8 @@ I specialize in building **intelligent, automated systems** that can:
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subodhnarayan&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=@MeSubodh
+&layout=compact&theme=radical"/>
 </p>
 
 ---
