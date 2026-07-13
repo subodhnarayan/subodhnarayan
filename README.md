@@ -21,7 +21,7 @@
 - 💼 GitHub: https://github.com/subodhnarayan  
 - 🔗 LinkedIn: https://www.linkedin.com/in/subodh-narayan-sah/  
 - 📧 Email: subodhnarayansah@gmail.com  
-- 🌍 Website: www.subodhnarayansah.com.np  
+- 🌍 Website: https://www.subodhnarayansah.com.np  
 
 ---
 
